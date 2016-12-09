@@ -1,0 +1,5 @@
+{
+    "require": {
+        "friendsofcake/CakePdf": "^3.2"
+    }
+}

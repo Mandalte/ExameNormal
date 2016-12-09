@@ -1,0 +1,67 @@
+.navbar-form .form-group {
+    display: inline-block;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+.tabelabody{
+
+	margin-top: 25px; 
+    margin-right: 30px;
+    width: 240x;
+}
+.tabelatravel {
+
+text-decoration: none;
+    background-color: transparent;
+    text-align: left;
+        border-collapse: collapse;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+            box-sizing: border-box;
+}
+
+.agost{
+	margin: 0px;
+	padding: 4px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top:1px solid #ddd;
+    border-bcottom:1px solid #ddd;
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+.agosti{
+	margin-right: 8px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left:0px;
+	padding: 4px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top:1px solid #ddd;
+    border-bcottom:1px solid #ddd;
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
+.pagart{
+
+    margin-right: 8px;
+    text-align: center;
+    bordder: 1px solid #ddd;
+}
+.pagar{
+    padding: 4px;
+    margin-right: 8px;
+    text-align: center;
+}
+.pagarr{
+    padding: 4px;
+    margin-right: 8px;
+    text-align: center;
+    border: 1px solid #ddd;
+    bosrder-left: 1px solid #ddd; 
+}
